@@ -1,0 +1,21 @@
+{
+  "name": "week2_icon_font",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass ./css/styles.scss ./css/styles.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jQuery": "^1.7.4",
+    "jquery": "^1.9.1",
+    "node-sass": "^4.14.0",
+    "popper.js": "^1.16.1"
+  }
+}
